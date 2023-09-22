@@ -4,21 +4,9 @@ class script(object):
     HELP_TXT = """<b>Hᴇʏ {}
 Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 
-    ABOUT_TXT = """<b><script type="text/javascript">
- atOptions = {
-  'key' : 'e08275ebd02fc812f63049a6a0cb2f76',
-  'format' : 'iframe',
-  'height' : 250,
-  'width' : 300,
-  'params' : {}
- };
- document.write('<scr' + 'ipt type="text/javascript" src="//www.profitablecreativeformat.com/e08275ebd02fc812f63049a6a0cb2f76/invoke.js"></scr' + 'ipt>');
-</script>
+    ABOUT_TXT = """<b>check</a></b>"""
 
-</a></b>"""
-
-    SOURCE_TXT = """
-"""
+    SOURCE_TXT = """<b>check</a></b>"""
 
 
 
