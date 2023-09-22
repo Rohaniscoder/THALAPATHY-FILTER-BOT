@@ -19,10 +19,7 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 
 Tʜɪs Bᴏᴛ ʜᴀs Lᴀᴛᴇsᴛ ᴀɴᴅ Aᴅᴠᴀɴᴄᴇᴅ Fᴇᴀᴛᴜʀᴇs⚡️
 
-Where is source code? - <a href='https://t.me/Teamrioupdates2/3'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a></b>
-
-
-Developer - <a href='https://t.me/creatorrio'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a></b>"""
+</a></b>"""
 
 
 
@@ -166,7 +163,8 @@ Nᴀᴍᴇ - {}"""
 
     MELCOW_ENG = """<b>Hᴇʟʟᴏ {} 😍, Aɴᴅ Wᴇʟᴄᴏᴍᴇ Tᴏ {} Gʀᴏᴜᴘ ❤️</b>"""
 
-    SHORTLINK_INFO = """
+    SHORTLINK_INFO = """
+
 🫵 Select Your Language And Earn Money 💰"""
 
     REQINFO = """
@@ -414,7 +412,8 @@ Aᴠᴀɪʟᴀʙʟᴇ ᴄᴏᴍᴍᴀɴᴅs:
 🛠️ Bᴜɪʟᴅ Sᴛᴀᴛᴜs: <code>v2.7.1 [ Sᴛᴀʙʟᴇ ]</code></b>"""
 
     LOGO = """
-BOT WORKING PROPERLY"""
+
+BOT WORKING PROPERLY"""
  
     TAMIL_INFO = """
 ஏய் <a href='tg://settings'>My Friend</a> 
