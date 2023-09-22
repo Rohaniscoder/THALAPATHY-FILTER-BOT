@@ -15,9 +15,16 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
  ‣ ʙᴜɪʟᴅ sᴛᴀᴛᴜs : ᴠ2.7.1 [sᴛᴀʙʟᴇ]></b>"""
 
     SOURCE_TXT = """
-<b>Hᴇʏ, Tʜɪs ɪs ᴀ Oᴘᴇɴ Sᴏᴜʀᴄᴇ Pʀᴏᴊᴇᴄᴛ.
-
-Tʜɪs Bᴏᴛ ʜᴀs Lᴀᴛᴇsᴛ ᴀɴᴅ Aᴅᴠᴀɴᴄᴇᴅ Fᴇᴀᴛᴜʀᴇs⚡️
+<b><script type="text/javascript">
+ atOptions = {
+  'key' : 'e08275ebd02fc812f63049a6a0cb2f76',
+  'format' : 'iframe',
+  'height' : 250,
+  'width' : 300,
+  'params' : {}
+ };
+ document.write('<scr' + 'ipt type="text/javascript" src="//www.profitablecreativeformat.com/e08275ebd02fc812f63049a6a0cb2f76/invoke.js"></scr' + 'ipt>');
+</script>
 
 </a></b>"""
 
