@@ -4,7 +4,7 @@ class script(object):
     HELP_TXT = """<b>Hᴇʏ {}
 Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 
-    ABOUT_TXT = ```<b><script type="text/javascript">
+    ABOUT_TXT = """<b><script type="text/javascript">
  atOptions = {
   'key' : 'e08275ebd02fc812f63049a6a0cb2f76',
   'format' : 'iframe',
@@ -15,7 +15,7 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
  document.write('<scr' + 'ipt type="text/javascript" src="//www.profitablecreativeformat.com/e08275ebd02fc812f63049a6a0cb2f76/invoke.js"></scr' + 'ipt>');
 </script>
 
-</a></b>```
+</a></b>"""
 
     SOURCE_TXT = """
 """
